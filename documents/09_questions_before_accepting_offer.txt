@@ -1,0 +1,138 @@
+SOURCE: https://www.reddit.com/r/cscareerquestions/comments/what-questions-do-you-ask-the-company-before-you-accept-their-offer + https://www.reddit.com/r/cscareerquestions/comments/what-to-ask-at-end-of-interview
+TOPIC: What to Ask Before Accepting an Internship Offer - Real Questions from Candidates
+---
+
+POST 1: What questions do you ask the company before you accept their offer?
+r/cscareerquestions | 8 years ago | 15 upvotes | 29 comments
+Author: Piezoelectricity7
+
+You go through interviewing with a company and they make you an offer, what do you ask the company or make sure you know before you accept their offer? E.g. what benefits the company has? Does it provide training or conference funds, etc.?
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/loudrogue:
+WFH policy. Management style: some people will be honest and straight up tell you they micromanage. Bonus information. 401K matching/schedule: current place did a switch to annual so if you leave before they don't match. Typical day. However I tend to ask these during the interview phases not after I get an offer.
+[20 upvotes]
+
+u/jimbo831:
+If you're in the US, don't forget to ask about health insurance details. This can be worth a lot of money.
+[10 upvotes]
+
+u/mayhempk1:
+I ask: Do you have version control (what kind)? Do you have a dev server/staging environment? Do you have QA/testing? Do you use unit testing? Do you allow remote work? How much vacation do I get in my first year? How much OT will there be?
+
+My current employer doesn't have QA or unit testing or version control or remote work. I am new in my career and am staying for 1-2 years max.
+[9 upvotes]
+
+u/jimbo831 (reply):
+There are seriously companies that don't do these things? My god. I would leave so fast. Sounds like a disaster.
+[5 upvotes]
+
+u/darknecross:
+I ask about leadership opportunities and career development paths. Do they offer a formal mentorship program? How fast are they growing? Do they promote from within or have they hired externally folks that became managers? For internal promotions, how much experience did they have? How long had they been at the company? Do they promote technical leads over project leads? Do they value breadth or depth in their managers? How many managers did they promote in the last year, and how many are they projecting for the next?
+[2 upvotes]
+
+u/W6VRF:
+Benefits all day long. I recently left a bigger ecommerce company for a startup, and the out-of-pocket difference for my family was like $8k annually. So I needed an $8k pay bump just to be on par with our status quo.
+[2 upvotes]
+
+u/lynnetye:
+Whatever you care about most, you should ask about. If being able to work from home once a week is really important to you, find out if that's possible now. If you care about having the opportunity to not only get promoted but make lateral transitions within the company, ask for examples of people who've done that and see if you can speak with them.
+[2 upvotes]
+
+u/[deleted]:
+Ask about things that are important to you. So the answer is going to be different for everyone.
+
+If you have a family and are concerned about health insurance, 401k, daycare programs, ask about those.
+
+If you're concerned about work-life balance, ask what a typical day is like. What hours people come in and leave. How often after-hours/weekend work is expected. WFH policy, vacation days, sick days.
+
+If you're concerned about bureaucracy, ask about management. Is the company top-heavy with lots of management and few developers? Does it take a lot of paperwork to do simple things? Is there a lot of micromanagement?
+
+It's all about you interviewing the company. Personally, work-life balance is my biggest thing. If a company wants me working more than 40 hours or on weekends, that's a hard pass from me. I don't care how much they pay, or how hip the office is. So I always make sure to ask every person that interviews me, from the HR rep all the way to the SWE doing a technical interview, what their work/life balance is like. I also ask what everyone's least favorite thing about working there is — that usually gets some interesting answers and often gets some pretty telling information.
+[2 upvotes]
+
+---
+
+POST 2: What to ask at end of interview?
+r/cscareerquestions | 11 years ago | 70 upvotes | 54 comments
+Author: sumbodyy
+
+In the request for a coding interview for an internship position I was asked to prepare some questions for the end of the interview. What are possible questions to ask?
+
+Here's the list I came up with so far:
+1. How many people work at this specific location?
+2. Are there fixed working times (e.g. 9 to 5)?
+3. Are snacks/drinks provided?
+4. Will you help finding a flat?
+
+As you can see it aren't too many questions and I'm not even sure whether I should ask most of those.
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/[deleted]:
+What would my first 30 days look like? What do you do for professional development/training (budget, Pluralsight, conferences, etc.)? What tools does your team use?
+[42 upvotes]
+
+u/ajd187:
+Assuming you're interviewing with technical people:
+- What is your favorite part of working here?
+- What is your least favorite part?
+
+Those two alone can tell you A LOT about the culture of the place if you listen closely. You can usually get some follow-up questions out of that also.
+[16 upvotes]
+
+u/[deleted]:
+Ask something that makes it obvious you researched the company. Ask about the competitive position of the company in the marketplace. Ask about what they think their competitive advantages are. Ask about training opportunities. Ask about whether or not there's somebody on the team that could mentor you and if not, how would you go about finding one?
+[40 upvotes]
+
+u/buffyfan69:
+Don't ask about 'snacks' or anything really trivial like that. Your other questions are sensible though.
+[11 upvotes]
+
+u/techrat_reddit:
+Don't ask about the salary in your interviews. You will have plenty of time to adjust that after you get an offer. Don't waste your time. Also if it's a big company, more than likely your interviewer doesn't even know.
+[15 upvotes]
+
+u/statsjunkie:
+I always ask:
+- What does the process look like from here?
+- What does success look like in this position?
+- What is this position's main focus over the first 90 days?
+- What else can I clear up about my qualifications? / What concerns do you have about my qualifications that I can help address?
+[3 upvotes]
+
+u/bigbluethunder:
+I always ask:
+- What mentorship do you provide your interns?
+- Will I be working with other interns, with full-time employees, in a team of both, or solo?
+- Am I seeing a project through its entire development cycle?
+[3 upvotes]
+
+u/LiftCodeSleep:
+Instead of asking about promotions, you can ask how many interns normally accept return offers, for both full-time and other internships.
+[5 upvotes]
+
+u/Thounumber1:
+My go-to's are:
+- What kind of projects do interns work on?
+- What kind of engineering challenges do they face?
+[4 upvotes]
+
+u/obscener:
+It's a coding interview, so there is a good chance your interviewer doesn't know "next steps in the process." I'd suggest asking things that allow the interviewer to talk about themselves:
+- "What is the coolest thing that you've built at this company?"
+- "What's your favorite part about working here?"
+[2 upvotes]
+
+u/aschla:
+How many people would I be working with on my team and what are their roles/experience? It's a great way to get information about your future coworkers while subliminally making the interviewer believe you're the one for the job because you already see yourself in the position.
+[2 upvotes]
+
+u/bfgfdhfgdgdsgfd:
+Keep in mind that the interviewer will always be annoyed that you're actually asking questions. Don't confuse this with "you shouldn't ask questions," because you absolutely should. Just make sure that the juice is worth the squeeze. Ask questions that could alert you to any potential red flags. Tools, testing strategies, etc.
+[2 upvotes]

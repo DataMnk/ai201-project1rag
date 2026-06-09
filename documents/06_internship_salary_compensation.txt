@@ -1,0 +1,261 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/how-much-did-you-make-at-your-internships + https://www.reddit.com/r/csMajors/comments/how-much-does-your-first-internship-pay
+TOPIC: Tech Internship Salary and Compensation - Real Numbers from Students
+---
+
+POST 1: How much did you make at your internship(s)?
+r/csMajors | 4 years ago | 332 upvotes | 275 comments
+Author: Missing_Back
+
+1. What company? (at least say if it's FAANG or non-FAANG)
+2. What tech stack/team did you work on?
+3. How much did you make?
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/eggjacket:
+$11/hour, at some tiny no-name company no one has heard of. Got it as a rising senior. It was the only internship on my resume when I was searching for new grad roles. I graduated into a SWE job making about $70k. That was a few years ago, and now I've job jumped and make 6 figures at a Fortune 50.
+
+Just adding this here because I know there's going to be a million people posting about making $10k/month at FAANG, and a million more people who silently read and feel horrible about themselves.
+[796 upvotes]
+
+u/lebron-is-the-goat23:
+Rising junior. Non-FAANG tech company. Go, AWS, React/JS. Around $22-24/hr.
+[114 upvotes]
+
+u/LeeKom:
+Defense. Software development with mainly Python. $9,000 total or $29/hr.
+[99 upvotes]
+
+u/sinus_lebastian:
+Microsoft. C#/ASP.NET, React, Fluent UI. $7.5K/month, free housing, $300 bonus and one-time relocation bonus. Got a full-time new grad return offer as well.
+[106 upvotes]
+
+u/SamPom100:
+FAANG (Amazon/Rainforest). Java/TypeScript, had a great team in Prime. $10,500 + ($2,500 housing) + reimbursements, ~$40k total. Got a return offer so I'll probably go back and avoid the current hiring freezes.
+[151 upvotes]
+
+u/rodgerdodger17:
+Capital One. Node.js. $58/hr or $9,307/mo.
+[54 upvotes]
+
+u/Hot-Afternoon-4831:
+Non-FAANG (no-code unicorn). JS/TS, Node/Express, GraphQL, Angular/React. $30/hr and no return offer.
+[52 upvotes]
+
+u/UCRDonkey:
+Non-FAANG, advertising company. Working on integrating a microservice into one of their programs with Java. I'm being paid $30/hr for pretty easy coding work.
+[57 upvotes]
+
+u/williamromano:
+FAANG in Canada. Java, Python, TypeScript. Around $8,000 CAD per month + $2,000 CAD stipend (around $7,500 USD per month total).
+[51 upvotes]
+
+u/unsaturatedgoods:
+JPMC. Java, SpringBoot, TypeScript, React. $52.88/hr + $2,500 bonus.
+[49 upvotes]
+
+u/sosolovely54:
+Non-FAANG, Fortune 100 company. Internal reporting and analytic tools — mostly Python and Django with HTML/JavaScript/CSS. $21/hour, negotiated $2,500 for housing.
+[69 upvotes]
+
+u/WhyZahed:
+FAANG. Full stack (React + AWS). 12 week total ~$30k with relocation.
+[9 upvotes]
+
+u/neonbluerain:
+FAANG. Bay Area. Research role so Python/PyTorch. $51/hr, comes to $2.7k biweekly after all taxes (including FICA). Also housing stipend at $3,600/month post taxes.
+[9 upvotes]
+
+u/illusion173:
+AWS. $7,800/month. Solutions architect. $6,600 moving stipend.
+[7 upvotes]
+
+u/lilceee:
+Amazon. React JS as well as a plethora of AWS tools. $9.1k/month + $6.4k stipend. Managed to get a return offer which I will definitely be taking.
+[7 upvotes]
+
+u/[deleted]:
+First internship I took shortly before COVID was for a local city government, made $10.50/hr. Next internship I made $16/hr at a small engineering company in Florida (could have negotiated to $20 if I really tried, but was desperate for the money). Worked there for 8 months, at month 6 I asked for a raise and they bumped me to $22.50. Eventually left for my current job as a full-time SWE. Now make $42/hr as a new grad in Florida for a defense contractor. I should be converted to full-time in spring and I'm expecting to be at around $120k + great benefits. That $10/hr internship was super important to getting the next internship and the full-time job offer, so sometimes you gotta do what you gotta do.
+[11 upvotes]
+
+u/blu3tu3sday:
+2 internships, first was $12/hr in healthcare and the second was $14 in finance, neither was prestigious but for my state (Arkansas), they were both still great internships at companies well-known locally. On the info sec side both times. Those 2 internships got me a part time job now at $25/hr with one semester left, which will become full-time once I graduate.
+[6 upvotes]
+
+u/WoktheDog:
+Bulge bracket bank (Canada, after junior year). Quant researcher (Python, Q, SQL). $47/hr.
+[6 upvotes]
+
+u/PhilosopherChance272:
+I wish I was born in USA.
+[71 upvotes]
+
+---
+
+POST 2: How much does your first internship pay?
+r/csMajors | 3 years ago | 174 upvotes | 276 comments
+Author: [deleted]
+
+[OP note: It seems like the hourly rate varies WILDLY]
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/ecl118:
+My first internship was unpaid my freshman year and then the second was $30/hr, then I had one my Spring semester junior year that was $50/hr and then my summer internship junior year was $40/hr.
+[125 upvotes]
+
+u/RazDoStuff:
+Mine was $25/hr at a tech company. FAANG is around $40+ usually.
+[69 upvotes]
+
+u/AAmpiir:
+Completely depends on the company, position, and location. I was making $24/hr as a software engineering intern at a defense company and about $7.5k a month as a tech consulting intern at FAANG.
+[81 upvotes]
+
+u/usephysics:
+Waterloo progression: $17 → $21 → $25 → $28 → $60 → $85.
+[99 upvotes]
+
+u/0b11011110:
+Internship in HS: unpaid. First internship: $22. Research: $20. TA: $16. Second internship: $8k/month.
+[32 upvotes]
+
+u/bankrupt-reddit:
+I made $9,000/month in SF.
+[49 upvotes]
+
+u/kanehaloz:
+First: unpaid. Second: $25/hr part time. Third: $62/hr.
+[30 upvotes]
+
+u/Distinct_Village_87:
+During HS I was paid $10.50-$11/hr for IT work for my school. Then I interned for the federal government and was paid $12.34/hour (GS-1 step 1 in the DC area). Then I interned for a government contractor and was paid around $25/hour (also DC area). Now I'm a SWE intern for a startup paying $50-$65/hour (1099 contractor), remotely. Started small (could have made more bussing tables), built up slowly.
+[13 upvotes]
+
+u/FapStarLord:
+Mine was ~$10/hr at NASA.
+[11 upvotes]
+
+u/Traditional_Pace1234:
+$17/hr freshman, $25/hr sophomore, and now I'm a junior preparing for a summer at around $72/hr. Don't give up!
+[8 upvotes]
+
+u/MateTheNate:
+My first was $36/hr at a networking equipment company with either corporate housing or a $10k stipend pre-tax. I live in the SF Bay Area so I chose the stipend. My next one is at a rainforest cloud company and that one will pay $56/hr with $2,500 post-tax per month stipend for housing.
+[7 upvotes]
+
+u/acodingpenguin:
+Capital One offered $58.17/hr and corporate housing, but didn't accept.
+[7 upvotes]
+
+u/mappercoder:
+First internship was $15/hr last summer. Upcoming summer is $72/hr.
+[5 upvotes]
+
+u/GeorgeDaGreat123:
+I had friends making anywhere from $15 to $50 hourly for their first internship.
+[6 upvotes]
+
+u/kalashnikovBaby:
+$0. Was definitely worth it.
+[12 upvotes]
+
+---
+
+POST 3: Is $26.50/hr good for SWE intern? (2025 market context)
+r/cscareerquestions | 2 months ago | 35 upvotes | 63 comments
+Author: RpgDoom
+
+Hi everyone, I recently just got my first internship offer in the Phoenix area as a junior, full-time on site. I thought this was actually pretty solid considering most other internships around me were paying between $20-25, but I've seen some say that $40 is the norm. If anyone here has a SWE internship in AZ lined up for this summer, what are you making?
+
+---
+
+TOP COMMENTS (POST 3):
+
+u/Pitiful_Objective682:
+It's an internship — if you can afford to work for that price you'll get experience, which is very difficult in this market.
+[225 upvotes]
+
+u/[deleted]:
+Are we really back to these posts. In this economy? Dude, that's $55k a year for an internship. Yes, it's good, especially in this economy. Even getting an internship, regardless of pay, is good.
+[184 upvotes]
+
+u/dragonnfr:
+Solid for Phoenix. $40 is coastal Big Tech. Take it. Skills now, pay later.
+[45 upvotes]
+
+u/Arch_Null:
+Hell yeah. Man's lucky, I'll only be getting $15.
+[14 upvotes]
+
+u/Playingwfyre:
+Lucky to have a job. Why bother asking.
+[15 upvotes]
+
+u/Brave_Speaker_8336:
+It's solid for a smaller non-tech company, but bigger companies or tech companies are generally gonna pay a lot more. Amazon in Phoenix pays about $34k for a summer which averages out to about $71/hr though this includes the housing stipend. Amex in Phoenix is probably under $50/hr.
+[2 upvotes]
+
+u/TheDoctorOfMemes:
+Pretty competitive all things considered. I'm in LCOL and make $25. Most of what I see are $16-$28 or so.
+[1 upvote]
+
+u/MinimumWestern2860:
+Bro hell yeah, my internship only pays me $18 (which I was more than happy with).
+[1 upvote]
+
+u/SNsilver:
+It's less than I made 5 years ago but in this market I would take it in a heartbeat.
+[1 upvote]
+
+---
+
+POST 4: [OFFICIAL] Salary Sharing thread for NEW GRADS :: December, 2025
+r/cscareerquestions | 6 months ago | 212 upvotes | 111 comments
+Author: CSCQMods
+
+[Context: new grads with < 2 years experience sharing real compensation numbers, December 2025. Included here to show salary trajectory after internships.]
+
+---
+
+TOP COMMENTS (POST 4):
+
+u/sydthecoderkid:
+Education: BA in CS, Philosophy & English. Prior Experience: Three internships at MSFT. Company: MSFT. Title: SWE I. Location: NYC. Salary: $132k. Relocation/Signing: $30k. Stock: $100k over 4 years. TC: $187k.
+[51 upvotes]
+
+u/bleachedjorts:
+Education: Berkeley Undergrad in Data Science. Prior Experience: Internships at two small startups and at AWS. Company: AWS. Title: SDE. Location: Bay Area. Salary: $148,400. Signing: $56,100 first year + $38,100 second year. Stock: $122,590. TC: $211,000.
+[60 upvotes]
+
+u/Real_nutty:
+Education: Community College + BS CS. Prior Experience: 2 years in research lab. Company: Big Tech/Mobile. Title: SWE II. Location: Bay Area. Salary: $175,000. Signing: $20k. RSU: $220k + $25-50k perf bonus. TC Year 1: ~$300k.
+[29 upvotes]
+
+u/goldninja941:
+Education: BS in Math + CS. Prior Experience: 2 SWE internships. Company: AI inference chips startup. Title: Deep Learning Compiler Engineer. Location: Bay Area. Salary: $170k base. Stock: ~$300k after funding round. TC: $245k.
+[14 upvotes]
+
+u/makarov_skolsvi:
+Education: BSCS from unranked college. Prior Experience: 2 internships (Fortune 500). Company: Healthcare Tech. Title: SWE. Location: Boston. Salary: $125,000. Bonus: $10,000. TC: $135,000.
+[11 upvotes]
+
+u/Accomplished-Run-488:
+Education: BA in CS and Applied Mathematics. Prior Experience: None. Industry: Fintech. Title: DevOps Rotational Program. Location: Chicago. Salary: $65,000.
+[23 upvotes]
+
+u/Stunning_Cancel_3146:
+Education: BS CS. Experience: 1 internship (Cisco) + undergrad research. Company: Capital One. Location: Richmond VA. Base: $123,000. Sign on/relo: $30k. TC: $160k first year.
+[5 upvotes]
+
+u/NoStretch7:
+Education: BA in CS. Prior Experience: SWE internship at no-name fintech startup. Company: Fintech startup. Title: Junior SWE. Location: Austin, TX. Salary: $65k. TC: $65k.
+[2 upvotes]
+
+u/joshwithprauts:
+Education: AS in Psychology (Dropped out). Prior Experience: 2 years healthcare admin, 0 internships. Company: Government Finance. Title: Internal Applications Engineer. Location: SLC, UT. Salary: $70k. TC: ~$70k.
+[20 upvotes]

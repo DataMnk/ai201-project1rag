@@ -1,0 +1,95 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/interns-is-your-internship-remote-or-in-person-which-do-you-prefer
+TOPIC: Remote vs In-Person Tech Internship - Real Experiences and Preferences
+---
+
+POST: Interns! Is your internship remote or in person? Which do you prefer?
+r/csMajors | 3 years ago | 51 upvotes | 67 comments
+Author: vKirito
+
+Title, basically. Thoughts on remote vs in person internships?
+
+---
+
+TOP COMMENTS:
+
+u/eggjacket:
+I'm mentoring an intern this summer. He has to come in but the entire team is remote. The absolute WORST of both worlds lmao.
+[124 upvotes]
+
+u/idemandthegetting (reply):
+This was me last summer. I was hybrid so it was a bit better, but there's nothing worse than sitting for hours in traffic only to arrive at an almost empty office where you do nothing but attend Zoom meetings.
+[51 upvotes]
+
+u/kallikalev:
+Mine is in person, and I think I prefer this to remote. This is my first internship, so I want the experience of going to the office, meeting and interacting with a team, hanging out with other interns, etc. And my company paid me to relocate so I'm basically getting to explore and vacation in a new city and get paid to do it.
+[100 upvotes]
+
+u/Student0010 (reply):
+I don't know much about internships that require relocation. Neither does my family. What are the limits of the relocation benefits? How is housing done? What is something to look or ask for? As much as I'd love to be remote for all the benefits, I'd rather have my internships be in person, or at least the training stages. Verbal and physical communication makes up a LOT. You don't get that over text.
+[14 upvotes]
+
+u/kallikalev (reply):
+Relocation is expensive, so generally only the big companies will sponsor it. I can only speak for how it works at Amazon, but here they pretty much just give you a big lump of money as a "relocation stipend" and tell you to figure it out. For housing I applied for an apartment like normal and am paying for it using the stipend.
+[9 upvotes]
+
+u/Distinct_Village_87:
+Remote. My commute is 5 seconds from the breakfast table to the computer, I don't have to get dressed (why is formal business dress so uncomfortable?), and I am willing to take a very significant salary cut for that privilege.
+[51 upvotes]
+
+u/mpholt:
+Just FYI, as someone who's been in the industry for a while and seen interns come through during COVID — if you do a remote internship, you have to be very intentional about connecting with the teams.
+
+I've seen an intern float through and miss out on a return offer. He did good work, but being remote it's easier to go under the radar. Your work is 50%, but the relationship side is 50% too. If you have an on-site during the internship it will help.
+
+Existing employees can afford to not focus on the connection as much, so unless your team has good structure and online events to connect, you have to make sure to manage your own relationships.
+
+Don't just go remote because it's easy. If you do it, be intentional about it and make sure to find ways to connect with the team.
+[25 upvotes]
+
+u/[deleted]:
+My internship is remote, but I would prefer hybrid. Going in-person every day while living near a city is so much time, effort, and gas wasted, but staring at a screen for 40h+ a week is pretty boring too.
+[37 upvotes]
+
+u/rari459:
+I love in person. I get free food and amenities, get to meet and talk to my manager and team, and partake in activities with fellow interns. There is no substitute for that kind of experience if I were remote.
+[21 upvotes]
+
+u/TFate-26:
+My internship is remote this year. I was hybrid last year and thought I would miss going into the office but I've actually really enjoyed remote. More time and energy to go out after work and I love not having to wake up as early. One thing I do miss is the opportunity to see other interns face to face every week.
+[6 upvotes]
+
+u/r12m09s53:
+I got 2 offers this summer. 1 was a long commute, the other remote with more pay. Pretty easy to guess which one I picked.
+[6 upvotes]
+
+u/iShallPose:
+I've done an internship remote and one hybrid. Hybrid is absolutely the way to go, I learned so much more.
+[4 upvotes]
+
+u/randomthrowaway9796:
+For an internship, I'd prefer in person. I learn more that way, and it's easier to make connections with people. It would help my career more. For a full-time job, online for sure. No commute, less strict hours, and not having to deal with people sounds like a dream. Part of the reason I chose CS.
+[7 upvotes]
+
+u/YOLOLJJ:
+Hybrid. No need to come to the office but I did anyway because it was fun meeting other people in the firm as well as other interns. Was a startup so maybe that's why I found it easy to meet people from all aspects of the business. It was great meeting team members IRL and helpful to get their input especially when working on final presentations.
+[3 upvotes]
+
+u/justpostingtopost:
+Hybrid, would love to learn as much as possible in person but don't have to commute 5 days a week!!
+[3 upvotes]
+
+u/lordaghilan:
+Did remote one this season. Think: Hybrid >= Remote >= All IRL. With full remote it's hard to network.
+[2 upvotes]
+
+u/JaggedBen:
+Mine is in office. For my first professional experience, I honestly prefer being in the office. Hybrid would be fine as I'm sure not every day will be super hands-on but I'll have more opportunities to network.
+[2 upvotes]
+
+u/Square_Ad_5721:
+Remote and I prefer it that way. My commute is a 30 second walk from my bed to my desk.
+[3 upvotes]
+
+u/RobKnight_:
+Remote. Saves more money and I get to be with my dogs.
+[3 upvotes]

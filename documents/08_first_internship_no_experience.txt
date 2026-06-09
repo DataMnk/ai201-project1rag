@@ -1,0 +1,123 @@
+SOURCE: https://www.reddit.com/r/cscareerquestions/comments/got-hired-with-zero-experience + https://www.reddit.com/r/csMajors/comments/how-did-you-get-your-first-internship
+TOPIC: First Tech Internship With No Prior Experience - Real Stories
+---
+
+POST 1: Got hired with zero experience
+r/cscareerquestions | 5 years ago | 775 upvotes | 182 comments
+Author: AccioStardust
+
+This might sound crazy and it still is to me but 2 weeks ago I got hired as an intern for a very small company. Just to be clear I told them multiple times I don't have the experience they are looking for but I'm grateful for the opportunity.
+
+The only reason I was considered is because a friend of mine told them I was looking to get into the field. After I told them I can't be a full stack developer for them they asked if I would be interested in an internship position instead.
+
+The point of this post is because I took the position and I'm making $15/hr basically to learn full stack development. I have experience programming but not with what they use. I'm learning Perl, ExtJS, Linux CLI, server administration and maintenance, Postgres, etc. Everything about full stack.
+
+It's really overwhelming but I recognize the value I can get from it. I haven't had much luck getting hired after graduating last spring so that's why I took it.
+
+We have talked about it and they understand I know nothing but are willing to teach me. They are great people.
+
+Am I crazy to try this? Do you think it's worth it or should I focus more on what I already know? I guess it depends on my goals but I'm conflicted on if I should pursue this or go back to learning and practicing what I already have experience with. It's weird knowing zero Perl and being put into a position with production level code immediately. I have watched a series of videos on Perl and they gave me a bunch of books.
+
+The idea was to treat me like an intern and then eventually I would be a functioning developer for them. They mentioned in passing about me being there for years so it's not a temp position assuming everything works out.
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/Firm_Bit:
+It doesn't sound crazy. This sub is obsessed with big names, but most jobs are at small no-name companies. And they hire who they can get.
+[857 upvotes]
+
+u/[deleted]:
+Also, who the hell needs experience to be an intern? That's where you're supposed to get experience. No one would get hired if there were tech stacks required to know (before you even graduate) to get an internship.
+[35 upvotes]
+
+u/bubsrich:
+My first internship was similar. I had taken a Java and C class and the company was looking for C# full stack devs. New languages are pretty easy to teach interns since you, in theory, know the fundamentals already. Don't be afraid to ask questions when you are confused. I wasted a week or two in paralysis because I had no idea how to even start an app in the .NET framework. After I finally asked for help, I realized how silly I was for waiting that long.
+[109 upvotes]
+
+u/nutrecht:
+Interns are expected to have no experience.
+[401 upvotes]
+
+u/furk19:
+They probably accepted the fact that they will never find an intern that knows Perl so don't worry about it.
+[93 upvotes]
+
+u/_E8_:
+Stay, you fool.
+[33 upvotes]
+
+u/Black-Shoe:
+This is the way the real world works. Congrats, soak it up.
+[44 upvotes]
+
+u/[deleted]:
+It's very difficult to get your foot in the door of this industry. Sounds like you got incredibly lucky if you truly want to be a dev. I would take it and learn what you can. Don't be hard on yourself while you learn as it'll likely be an information overload for a while, but you'll get the hang of it if you stick with it.
+[12 upvotes]
+
+u/Smurph269:
+It's a good opportunity, just recognize they are paying you poverty wages so if you work out, it's a huge win for them. I doubt they will try to keep you at such a low rate, but they will probably pay you much less than they would an engineer with experience on the open market. It'll be years before you have a good enough resume to pass the smell test and get interviews and market-rate offers elsewhere. But this is basically the best shot you'll get at entering the industry with no experience.
+[3 upvotes]
+
+---
+
+POST 2: How did you get your first internship?
+r/csMajors | 7 months ago | 83 upvotes | 39 comments
+Author: AssociationObvious56
+
+How did you get your first internship? What year in school were you? What previous experience did you have? If you didn't have any experience, what else did you have on your resume? What was the interviewing process like? What kind of work did you do during the internship?
+
+I'm a sophomore and honestly I've been really reluctant to apply to internships because I don't really feel like I have any experience besides a few basic projects. Would it be better to wait and build my experience and then apply or should I just be applying now?
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/joliestfille:
+Sophomore year. I briefly connected with a recruiter and a couple of engineers when they came to an event at my school, then on my application I mentioned that I spoke to them and what interested me about the company. I think that may have stood out since a lot of people don't bother to fill out the additional info. It was an SDET role, not SWE, at a small-ish subsidiary of a medium-sized company. I think that's a good place to start since they're not necessarily looking for a ton of technical experience. Interview process was just an OA and then an hour-long interview — mostly behavioral with a couple of high level technical questions but not LeetCode style, more like "explain DFS" kind of thing.
+[20 upvotes]
+
+u/Comsicwastaken:
+Talked to someone at the career fair. Ended up moving me forward to interviews. Pretty simple behavioral and light technical interview. No previous experience. This was junior year.
+[15 upvotes]
+
+u/MarathonMarathon:
+Freshman year: didn't give a shit about internships at all. Landed my first paid job teaching CS. Felt optimistic I'd learn and eventually succeed.
+
+Sophomore year fall: even with actual work experience, my resume was pretty bad and I barely applied anywhere, so I got 0 consideration for anything.
+
+Sophomore year spring: gave up on internship hunt, tried for regular summer jobs, took until August to get something informal through a connection.
+
+Junior year fall: finished some projects to make my resume slightly less bad, applied more, but same results. Only interview was some guy's AI startup, even that was a rejection. Was feeling crushed and hopeless, and started doomscrolling this sub.
+
+Junior year spring: did a spring internship through something at my school. Kept applying for summer, prioritizing local companies, got some interviews but nothing panned out into offers. Eventually landed something at a pre-seed startup really last minute in May.
+
+Senior year fall: doing a research thing with my school, first time getting paid for writing code. Still getting interviews including some fairly well-known names, yet still lack a full-time job offer.
+[26 upvotes]
+
+u/smirnoff4life:
+Cold applied online to an IT internship position that was just Salesforce admin work. I was in 3rd year and had a few basic web app projects on my resume. I had 1 behavioral interview. Interviewed on a Monday, had my offer by Friday. The work was just answering tickets in Salesforce. The job was remote and $18 USD/hr. This internship was my only offer so of course I took it because something is better than nothing. While the internship was unrelated to CS, it did help me get a fall SWE internship (also remote, $30 CAD/hr) right after, so it all panned out pretty well.
+[7 upvotes]
+
+u/DreamThrowYoohooMilk:
+Got my first internship as a sophomore from cold applying on LinkedIn and Handshake. For projects I used a game I made in assembly in 9th grade, C++ OOP projects from community college, and a Python class project. It was at a small company that made software for Ford dashboards. Junior year I was scrambling for another internship and was getting nothing. I knew the manager on LinkedIn so I cold messaged him if they had any internships open. One slot left and it wasn't even on the job board. Automatic return offer. I think that was the smartest decision I ever made in my life.
+
+TLDR: Nothing wrong with cold applying at first, but once you get your foot in the door, use your connections wisely. Career fairs and CS Club helped too — won a hackathon and got a cash payout, was a very nice bullet point on my resume.
+[2 upvotes]
+
+u/Jedrodo:
+I would just start applying. It doesn't matter if you don't apply or they reject you. The outcome would be the same. So just apply and maybe you have luck. I only had some projects on my resume and that was basically it for my first internship.
+[5 upvotes]
+
+u/General-Phrase4479:
+My biggest mistake was not applying earlier. I had the mindset that freshmen don't get internships and I didn't know enough to get one as a sophomore. You should apply even if you don't have any experience. Beef up the resume as time goes on.
+[1 upvote]
+
+u/penpin2638:
+My state college has industry ties and campus university relations managers for a few companies, so I stalked one and went to all his events until he gave me a referral which led to an interview which led to an offer! The only experience I had was a summer camp where I taught intro to Python.
+[1 upvote]
+
+u/zacce:
+1st SWE internship (part-time remote) during freshman fall semester. Applied after talking to an upperclassman who previously worked there. Served as a stepping stone for future roles. My advice: start applying, as you will never finalize a perfect resume.
+[1 upvote]

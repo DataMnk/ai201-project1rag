@@ -1,0 +1,162 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/former-amazon-sde-interns-how-much-value + https://www.reddit.com/r/csMajors/comments/i-got-offers-from-google-meta-amazon-swe-intern
+TOPIC: Internship Experience at Meta, Amazon, and Microsoft (FAANG)
+---
+
+POST 1: Former Amazon SDE interns: how much value did the internship add to your resume?
+r/csMajors | 1 month ago | 78 upvotes | 41 comments
+Author: BugPsychological2283
+
+Would like to know:
+- Current university year
+- The Amazon team you were working at
+- Past/upcoming internships
+- Companies you've received interview opportunities from in cycles subsequent to the SDE internship
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/Even_Balance9978:
+Not Amazon, but as a past Google SWE intern, would like to share my experiences.
+
+Before Google: resume screened and ghosted most of the time, never got much interviews.
+
+After Google: Only was resume screened by HRT, got interviews from almost everywhere (Jane Street, Jump, Citadel, Optiver, Two Sigma, you name it...) and got 3 quant SWE offers. Didn't apply to any of the big AI/ML shops and any big tech this recruiting season, only quant.
+
+I'd say my leetcoding abilities were similar prior and after Google but having Google on my resume felt like living life on easy mode.
+[98 upvotes]
+
+u/BugPsychological2283 (OP reply):
+That sounds so sweet but Google is on a higher level than zon.
+[56 upvotes]
+
+u/Even_Balance9978:
+Surprisingly I was rejected from AWS final round because my 'leadership principles' were not on par lol.
+[28 upvotes]
+
+u/TransientFatigue:
+2025 Summer Amazon SDE intern. Currently a sophomore.
+Heard back from Optiver, Jane Street, Citadel, Walleye Capital, Microsoft, Google, Apple, NVIDIA, OpenAI.
+Incoming at Google!
+[36 upvotes]
+
+u/Peephole-stalker:
+Past zon intern: 6 new grad applications to places I would rather go than zon. 4 interviews, 3 offers.
+[32 upvotes]
+
+u/PentaPredicate:
+Junior, prev summer worked on Amazon Search ML platform. Got interviews at every quant firm I applied to (HRT, JS, SIG, Optiver, Akuna, Millennium, Citsec and Citadel, Five Rings, CTC, IMC, MW, etc.) as well as a lot of startups and big tech (Google, Meta, Microsoft), got multiple offers and decided on Millennium for this summer.
+[6 upvotes]
+
+u/Material_Bite3659:
+Past AWS intern. International master's student in the US. 800+ applications for FT. 1 Call back from Applied Intuition. 0 offers. Graduating in 2 weeks. Remaining 799 applications are in a void.
+[20 upvotes]
+
+u/wafflepiezz (reply):
+Oof, international students have it almost impossible right now.
+[18 upvotes]
+
+u/-LeapYear-:
+Past AWS intern during my undergrad (2022). US Citizen at T15 school. Now completed my Master's and applying for new grad positions. Didn't apply for internships during my Master's bc I was focusing on research/my thesis (mistake).
+
+I have applied for 110+ positions since last August and only got 1 interview at Google, which I made to on-site and stuffed up. Haven't gotten any other interview opportunities.
+
+Don't know if it's time to quit...
+[3 upvotes]
+
+u/Existing_King_3299:
+Did a summer there last year and I'm 6 months without a job after graduation. I'm rejected instantly at some small companies. Heard back from Uber and Google though, couldn't pass the interviews.
+[1 upvote]
+
+u/AdPurple1903:
+I would also like to talk about this - I got Google STEP and my interviews went up, I had interviews from all over, I think as a whole 20 companies. The top was Two Sigma, the lowest was J.P. Morgan. At that time I only had Google STEP and two other non-profit internships. I am a senior this year and I am going back for Google SWE aiming for a full time.
+
+Before Google:
+- Microsoft
+- Snapchat
+- Bloomberg
+
+Interviews after Google:
+- LinkedIn
+- Google
+- Oracle
+- Intuit
+- J.P. Morgan
+- Autodesk
+- Duolingo
+- Deutsche Bank
+- Bloomberg
+- Amazon
+- Microsoft
+- Two Sigma
+[1 upvote]
+
+u/PokeThePanda:
+As someone who went to a mid state school, it carried my resume to getting my first job in less than a month after graduating.
+
+I'm being laid off now so I'm currently interviewing again. I just talked through my whole zon project in my last interview even though it's been almost a year since my internship.
+
+Had no other internships and it was for CSE not SDE.
+[1 upvote]
+
+u/Waste-Falcon2185:
+It's basically the only thing I have ever done that's been a net positive to my employability which is a huge indictment of this so called society in which I allegedly live.
+[2 upvotes]
+
+---
+
+POST 2: I got offers from Google, Meta, Amazon (SWE intern) by GRINDING for exactly ONE year (comments only - original post deleted)
+r/csMajors | 2 months ago | 1.3K upvotes | 109 comments
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/grandmas_noodles:
+"Yeah getting big tech is easy you just need to do research, join a quant club, non-AI slop projects and do 800 LC questions"
+(Jk it's good advice thanks for sharing)
+[240 upvotes]
+
+u/Ariose_Aristocrat:
+This is literally easy especially when you compare the effort with the return. I'm a freshman and I have like 150 LC down and that's just from doing 1-2 most days after class.
+[51 upvotes]
+
+u/MQ2000:
+This is a great summary on what to do, personally I'd add mock interviewing too.
+[204 upvotes]
+
+u/OverusedUDPJoke:
+Unless you're an idiot you realize this is a really obvious ad. None of these results are real. HOW DO YOU GET SELECTED FOR META / GOOGLE?
+[41 upvotes]
+
+u/serinty (reply):
+Sure it may be an ad but the info here is definitely a tried and true way to land FAANG. Try not to be so delusional next time.
+[15 upvotes]
+
+u/[deleted] (OP, on project advice):
+Lots of people have been asking about projects so here's what I'll say:
+- Good projects tackle a REAL problem where impact can be easily measured
+- Do reputable hackathons/competitions and if you place well, put that on your resume
+- Doing a good project is one thing but more importantly it's how you story tell it on your resume
+- I've screened resumes before and the biggest turn off is if I read a project and it sounds like an AI can do it in a day (even if you actually put in a lot of effort)
+- There's no step by step on the right way to write a project on your resume but you kind of just have to experiment with different bullet points and pick the one that sounds the best (use ChatGPT and friends for guidance)
+- This lowkey applies to all bullets on your resume
+
+I'm sorry if this is vague but I'd argue that it's more important HOW you actually tell it on your resume and in your interviews than the project idea itself.
+[4 upvotes]
+
+u/Educational-Fold8668:
+All I'd say is don't go to Meta, you'd live a happier life.
+[4 upvotes]
+
+u/[deleted] (OP, on application timing):
+Always apply, check job boards multiple times a day when recruiting is in full swing. I don't think timing matters that much as long as you apply within maybe a few days of it opening. Important thing is that you want to put your best foot forward in your application so spending maybe 1 or 2 days to optimize your resume is worth it.
+[4 upvotes]
+
+u/TheUltimateNapkin:
+Am I cooked if I didn't get into any of the uni CS clubs... do you need uni club involvement?
+[3 upvotes]
+
+u/TonyTheEvil (reply):
+No.
+[4 upvotes]

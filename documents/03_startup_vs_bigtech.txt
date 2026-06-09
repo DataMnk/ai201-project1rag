@@ -1,0 +1,123 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/think-twice-before-you-work-for-any-startup + https://www.reddit.com/r/cscareerquestions/comments/how-valuable-is-startup-experience
+TOPIC: Startup Internship vs Big Tech Internship - Real Comparisons and Experiences
+---
+
+POST 1: Think TWICE before you work for any startup
+r/csMajors | 1 year ago | 519 upvotes | 41 comments
+Author: BackgroundPin482
+
+I know lots of first/second-year students are desperate for an internship opportunity, but please think twice if you want to move forward with a startup internship. The rise of LLMs has enabled a large number of low-quality tech/AI startups, especially those owned by a jobless person from a marketing background, and I'm speaking from experience.
+
+At first, I thought only doing research this summer is less challenging, so I applied to a startup claiming that they need a SWE intern. After some phone interview and technical screening, he let me in. He's been vibecoding the whole project. He, as someone without any technical training, wrote entirely a mess (name a few: backend parts in frontend folder, hardcoded everything). To explain everything to him, I drew lots of design diagrams and tried to clean the codebase, only to be informed that he will have to focus on networking with more people and branding, although he did not have a solid project idea yet.
+
+I had enough, so I ranted on another reddit community about startups, and lots of startup owners contacted me asking whether I want to join them instead. They are HORRIBLE. They all pitched me with their hopeful ideas (like an event recommender for young adults), but those people from sales background have no clue on how to conduct user studies, or the complex algorithms a recommendation system has to have, and they are looking for free labor knowing more about computers to help them achieve their impossible vision, even without a contract or any credit.
+
+Tools like ChatGPT have made those people without any technical background dream about being the next Steve Jobs or Elon Musk.
+
+So here are traits of irresponsible tech startup owners people should definitely avoid:
+
+1. Do not have a clear project in mind, always talking about abstract things that are impossible to understand.
+
+2. Do not give you a contract to sign, and the contract has absolutely no details on code ownership, background check support, recommendations, etc.
+
+3. Remember, except for nonprofits, having unpaid interns working on a project aimed for profit could violate FLSA if there is no mentorship, not for educational purposes, no promise of full-time return offer, and tasks directly related to the profitable business. If you wanna work with startups, look for those with funding.
+
+4. The owner is someone from a non-engineering background, and the team does not have an expert in the field of technology. This can make the startup idea sound unrealistic. If the tech person has other responsibilities, such as a full-time job, this is a red flag as well, because you will not be mentored.
+
+5. If the team has poor management and documentation, run.
+
+6. The supporting company of the product is an LLC.
+
+7. Owners are narcissistic: saying they can succeed on a project Google has failed, saying companies won't hire them only because of xyz, and all talk no work.
+
+And always go with paid internships in established companies. Don't sit tight in a startup for too long if you just want a peaceful life with a stable stipend.
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/MathCSCareerAspirant:
+Also, on LinkedIn (US) most companies recruiting interns have employees 2-10. What you mentioned is a common scenario. Someone got laid off. He/she is non-technical or has lost touch with code. Hires a bunch of unpaid interns to see what can be done.
+[132 upvotes]
+
+u/innovatedname:
+I'm hot off the press of a horrifically vibe-coded startup LLC with megalomaniac founders working on vague nonsense, so I feel very seen by this post. Yep, it was ass and I hated it, but I got paid and got some shitty thing to slap on my CV. Do not recommend unless you're truly desperate.
+[72 upvotes]
+
+u/Pristine-Item680:
+Honestly, I would say that if you're trying to break in, getting a job is better than no job. Just remember that these people will lay you off the second you're not "worth the investment" anymore. And you'll probably not be working on truly cool tech, you'll just be trying to refactor horrendous tech debt on likely unreasonable time horizons. Remember that 1 YOE is all it takes to get past all sorts of ATS filters.
+[28 upvotes]
+
+u/Darkislife1:
+Startups are not bad if they are a funded startup. I would only say go for a paid internship at a startup that at least has pre-seed funding from reputable VCs.
+[15 upvotes]
+
+u/onionsareawful:
+Just do your due diligence. Funded startups (especially from a reputable VC) with at least one or two technical founders are likely to be a pretty good experience.
+[11 upvotes]
+
+u/jonneytest:
+What really irks me is how many people majoring in Engineering or CS are just vibe coding. They don't even know the fundamentals. Then there are people who think they can build a ChatGPT wrapper app without realizing how much serious work it takes. These apps require immense effort and real CS knowledge — full stack development, prompt engineering, injection handling, architecture. It's not just copy-pasting stuff from ChatGPT.
+[8 upvotes]
+
+u/shoebill_homelab:
+This needs to be shouted from the rooftops. Founders know how bad the market is. I've seen many people get worked to the bone for basically nothing. Verbal promises going nowhere, founding engineer equity for a salaryless technical cofounder role. It's so predatory. Do research on r/startups about equity and YC as well, they're great resources.
+[2 upvotes]
+
+u/Four_Dim_Samosa:
+Yup. Just like anywhere, the onus is on you to ask the deep questions to probe if the startup is worth their salt. Ask the tough questions and you'll get your signal. I will say as someone working for a startup, I tend to prefer late-stage hypergrowth ones. You get the benefits of moving fast but with some semblance of stability.
+[2 upvotes]
+
+---
+
+POST 2: How valuable is startup experience?
+r/cscareerquestions | 7 months ago | 7 upvotes | 52 comments
+Author: Gorgamite
+
+Hello, I'm a 2025 CS new grad and I was fortunate enough to land a role at an AI startup. The work is super interesting, it's a lot of computer vision/OCR with Python, and I even get to do full stack development. It's a contract role, the pay is $50/hr, 40 hours a week, which comes out to $104k/yr, and I get to pick my work hours.
+
+My question is: How valuable is this as a first role career-wise? Will future interviewers ding me for working at a no-name company? Will this hold me back long term?
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/GooseTower:
+It was a massive learning accelerator for me that made future early career interviews a cake walk when they ran out of money 6 months later.
+[20 upvotes]
+
+u/ecethrowaway01:
+- How valuable is this as a first role career-wise? Depends on what you actually end up doing.
+- Will future interviewers ding me for working at a no-name company? Maybe comparatively.
+- Will this hold me back long term? Probably not.
+[13 upvotes]
+
+u/lifelong1250:
+Brand new CS grads aren't very productive, that's why they have a hard time getting hired. Once you have two years of experience, people start believing you can get something done. Your only task when getting out of school is to get that first two years of experience. So take the job, make some money and build up a resume.
+[9 upvotes]
+
+u/salamazmlekom:
+Usually startups value speed of delivery over quality. If you plan to work in startups your whole career this might work, but you won't ever learn about good practices, optimization, and so on that is essential for long-lasting software. I myself would avoid startups. Code quality is just one of the issues.
+
+To give you an example — I currently work with 2 devs that came from startups. They never heard of any design or architecture patterns. They always just want to finish their tasks fast and move on. Every code review is full of huge single-file components, tests for them are "useless" and "waste of time." Simple design patterns like a facade are "unnecessary complexity." They just don't get it.
+[16 upvotes]
+
+u/DoneWhenMetricsMove:
+Depends on what you want for yourself. If you have any inclination to start something someday, the experience you get at a startup is invaluable. You'll see how the whole thing runs, make decisions with limited resources, and learn to ship fast. Big companies can't teach you that. If you want a more stable path (Fortune 100, established tech), depth of experience and learning how to do things with craft matters more. Those companies value pedigree and structured growth.
+[1 upvote]
+
+u/SimilarIntern923:
+Depends on the startup. One run by a bunch of 20-something year olds? Probably not. There are good ones though. I currently work at one right now where the founder has multiple successful exits, veteran C-suite, great engineering department. I have learned more in my 5 months at this startup than I did in 3 years at my last role.
+[3 upvotes]
+
+u/WaterIll4397:
+Take it. Working on the current in-demand technology is always a good idea. Nvidia/Google/Meta is still the better first job if you can get it though, as it'll set you up as a feeder candidate for other startups that will all know you are smart enough to pass their tech screens.
+[1 upvote]
+
+u/macromind:
+Startup experience can be super valuable early on, especially if you are shipping real things. In interviews, most folks care less about the company name and more about concrete stories: what problem, what you built, how you measured impact, and what you owned end to end. A contract role is only a red flag if you cannot explain continuity or outcomes, so keep a tight brag doc and metrics.
+[1 upvote]
+
+u/keeperpaige:
+Hey, I'm a junior and recently started working at a startup. I'm not sure how long I'll last. The hours are from 9-7 and all I do is worry about work when I'm not working. Maybe I'm being dramatic, but I'm so exhausted.
+[2 upvotes]

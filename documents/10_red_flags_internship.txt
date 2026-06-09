@@ -1,0 +1,166 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/red-flags-software-engineering-job-internship-descriptions + https://www.reddit.com/r/cscareerquestions/comments/internship-as-a-ml-engineer-is-a-living-hell
+TOPIC: Red Flags in Tech Internships - Warning Signs from Real Experiences
+---
+
+POST 1: What Red Flags do you notice when you look at Software Engineering Job/Internship Descriptions?
+r/csMajors | 5 years ago | 416 upvotes | 117 comments
+Author: jstaminax
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/thicconion_:
+"We are a family."
+[453 upvotes]
+
+u/namonite (reply):
+Can't turn your back on family.
+[100 upvotes]
+
+u/consensualwisdom:
+"Work hard, play hard."
+[257 upvotes]
+
+u/lit282 (reply):
+Work hard == "10 hour days." Play hard == "here's a ping pong table."
+[204 upvotes]
+
+u/nanaoz:
+"We love the fast-paced environment and night owl engineers."
+[445 upvotes]
+
+u/Jaysunny420:
+"Unpaid."
+[113 upvotes]
+
+u/babypho:
+"This position is equity based. Work to make a difference in the world by making [app that already exists but there's some random twist to it]."
+[74 upvotes]
+
+u/drizzen__:
+"Needs to be a self starter." (Translation: we have no idea what we're even doing and hope you will.)
+[40 upvotes]
+
+u/[deleted]:
+They say they want a "rockstar" developer.
+[113 upvotes]
+
+u/drizzen__:
+Also asking for a specific amount of experience for specific frameworks like: 10+ years Hadoop, 10+ years FastAPI, 3+ years Kafka. Or just sounding really demanding in the description.
+[38 upvotes]
+
+u/JoeJoe1492:
+"We have long days and short days" means that you'll work 8 hours at the minimum.
+[59 upvotes]
+
+u/[deleted]:
+- No mention of pay or benefits.
+- No mention of culture on their site. Do y'all volunteer? Company hackathons? Dress code? Team outings?
+- "Fast-paced environment."
+- Goes out of their way to mention hiring specifically from prestigious schools, no mention of acceptance of bootcampers or other non-traditional pathways.
+[145 upvotes]
+
+u/KoncealedCSGO:
+Two big red flags:
+
+UNPAID INTERNSHIPS — I was desperate for an unpaid internship because my regular job wasn't working out. I interviewed and was about to start, then spoke with another intern before giving a start date. I learned there were only 3 PAID developers and 12 INTERNS. They were completing contract work and using the unpaid interns to profit.
+
+The other red flag: giving your Software Dev Intern INTERVIEWEE Production Access WITHOUT SUPERVISION. Yes, this happened. I had to sign an NDA to get the keys and SQL access. I had full production access as an intern interviewee with 0 supervision. Then the CEO would call me at 8 at night begging me to join. Don't undervalue yourself. You deserve to get paid for your work.
+[23 upvotes]
+
+u/Calm_Establishment29:
+Mother of all: "Unlimited PTO."
+[20 upvotes]
+
+u/DynamicHunter:
+"NO REMOTE OPTION" = major clearance thing or boomer CEO.
+[72 upvotes]
+
+u/chooseusernamee:
+"As long as you get your s*** done." Yeah, that's literally written in the official job description.
+[16 upvotes]
+
+u/eficiency:
+Frankly I'm oblivious to all these criticisms. It's 12-16 weeks, I'll suffer through Amazon's most Karen manager if it means I can put Amazon on my resume.
+[26 upvotes]
+
+u/Dimax88:
+"Must have previous internship experience."
+[7 upvotes]
+
+u/chase_the_sun_:
+Entry level job with a requirement of 5 years of experience.
+[6 upvotes]
+
+---
+
+POST 2: Internship as a ML engineer is a living hell.
+r/cscareerquestions | 6 years ago | 815 upvotes | 191 comments
+Author: eyeless98
+
+Last week I got accepted by a company for a machine learning engineer intern position. The interview was just a normal conversation between me and 2 company employees (turned out the company doesn't have a real HR department). They got excited by my resume and told me to come again for the second phase.
+
+In the second interview I sat down with the company owner and spoke for around 20 minutes about my ambitions and what I like about AI. He told me I got the job and that I will start on Monday.
+
+I asked him about the work schedule and he told me it's from 9am to 6:30pm. I got that as a red flag but I didn't reply on that. He also told me to come to work with a suit and a tie. I asked him why and he told me that we have to look more professional because most of my coworkers are young.
+
+On my first day they showed me the space and then I met a team of interns who were working on small projects to sell to companies. Every single one of them was assigned to build a program on their own so the company could sell it until their internship ended. I learned from the guys that they didn't get any training at all and they were just assigned a job. I got very skeptical about my future there instantly.
+
+On my second day I sat down with my manager and she gave me a dataset from a shipping company. She asked me to extract information and find a relationship between ship repair time based on damages from past data using regression. When I started asking questions she couldn't answer them and told me to ask other coworkers for help.
+
+Should I resign and look for a new internship or will every job that has to do with machine learning be like that?
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/a79j:
+Wait... so are you telling me this is a startup company where all its engineers show up wearing "a suit and tie" to code? Is this a bit of exaggeration from your end or did they actually say that?
+[905 upvotes]
+
+u/eyeless98 (OP reply):
+Yes. First day I came without a tie and they asked me to never come again without a tie.
+[760 upvotes]
+
+u/MrAcurite:
+Yeah, that's not an internship, that's a scam of some kind. Spend your days reading literature to look busy, and apply for something that's less bullshit. Get your ass out of there.
+[722 upvotes]
+
+u/icsharper:
+I wouldn't resign until I find another gig. So, in your free time, search for other internships you are interested in. Try to learn as much as you can on this current job, but I doubt you will, since this sounds like all young people are being exploited and the company wants instant value from everyone, isn't ready to invest time and money on people, and sounds like douchebags.
+[186 upvotes]
+
+u/never_safe_for_life (reply):
+Yes to this. Do the bare minimum while you look for something better. Do you think your boss is even going to notice? You've been assigned the most vague, unsupervised bullshit I've ever heard.
+[73 upvotes]
+
+u/dopkick:
+Honestly, this sounds like a good introduction to the working world and all the "fun" that lies in wait. Things like poorly scoped projects, useless managers, people being left to fend for themselves, fake it until you make it, etc. are all really common in the workforce. The average job, not just in the software field, is kind of a train wreck in at least a few ways.
+
+My suggestion: just ride this internship out and observe what you don't like and how it plays out. After it's over, ask yourself what questions you could have asked during the interview to avoid this situation. And then ask them in the future. This internship is giving you tons of ammo for behavioral interview questions — you can describe how despite not having technical guidance you were able to make the internship a success by doing A, B, and C.
+[154 upvotes]
+
+u/requisitesum745:
+Well, I got a machine learning internship in my country (India). But after getting selected they made me work on Django without training and gave tasks related to big data (which is not related at all). Worst of all, they wanted me to work for 5 hours a day knowing I have university in the morning, and it was UNPAID and we were given tasks on Sunday also. At one point I got fed up and quit and started looking for other internships.
+[24 upvotes]
+
+u/tritobeat:
+Sounds like exploitation to me. I own an IT startup myself and the first thing I prioritize is to actually learn more about AI/ML. This sounds like a cheap way of a company stumbling into the field of machine learning.
+[21 upvotes]
+
+u/wholeWheatButterfly:
+Frankly, as much as it sounds like this workplace sucks, this internship sounds like it could be a great resume builder. "Sole contributor to data mining project involving using past mechanical data to predict maintenance time for ship repairs. Drove project to completion with little to no supervision." If you can make it to the other side having actually created something, I think this would be a strong experience on a resume. If you can tolerate it.
+[15 upvotes]
+
+u/Shnorkylutyun:
+Apart from managers and the suit and tie, this project sounds so much better than my current job. From my experience, a big part of software development is learning how to find solutions. That includes asking random strangers on the internet.
+[17 upvotes]
+
+u/deejeycris:
+GTFO as soon as you have another position secured.
+[5 upvotes]
+
+u/Electrical-Case-6108:
+Sweatshop, abandon ship.
+[5 upvotes]

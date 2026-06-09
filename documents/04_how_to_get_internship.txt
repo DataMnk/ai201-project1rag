@@ -1,0 +1,146 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/genuinely-how-are-you-supposed-to-get-your-first-internship + https://www.reddit.com/r/csMajors/comments/what-kind-of-projects-did-yall-make-to-get-your-first-internships
+TOPIC: How to Get Your First Tech Internship - Real Tips and Experiences
+---
+
+POST 1: Genuinely how are you supposed to get your first internship
+r/csMajors | 8 months ago | 290 upvotes | 96 comments
+Author: Random_throwaway0351
+
+I have projects and hackathons on my resume, T20 for CS, solid GPA, no experience. My school's on a hiring freeze for TAs and research assistants. I'm convinced leaving the 'Experience' section blank gets me rejected/ghosted instantly for 90% of companies.
+
+~200 applications, some auto OAs I got 100% on and ghosted after. Any advice?
+
+Edit: Also, how close is recruiting season to being over? I've heard of people getting their summer internship next spring but don't know how rare that is.
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/meme8383:
+You should not leave the experience section blank. In lieu of work experience, you can put club experience, projects, part time jobs, research, etc. You should be easily finding opportunities on campus, especially at a T20.
+[198 upvotes]
+
+u/wetandgushyy:
+Put your projects on your experience, definitely don't leave it blank!
+[50 upvotes]
+
+u/Complex_Pool6345:
+For me, networking was the dealbreaker. Try connecting with recruiters when they come to campus, message a bunch of people at your target companies and ask them for a coffee chat (ask for a referral at the end, but only if you connected well!!), join different organizations (RTC/BTT/SWE/AWE - if you're female-identifying; CodePath, Headstart Fellowship) and utilize resources that they provide for networking and job search. Good luck!
+[34 upvotes]
+
+u/taterrrtotz:
+I never had a CS internship and ended up working at a FAANG. Just work on personal projects that you can talk about in the tech stack you want to work in. The main one I had was an iOS app for disc golfing if I'm remembering correctly. I made sure I had a demo linked to my GitHub to make it look professional. Your projects don't need to be impressive, you just need to make them sound good because honestly a hiring manager doesn't have time to sift through your code.
+[28 upvotes]
+
+u/Far_Significance_986:
+Do a free volunteer internship at a well-known organization (non-profit or government). I worked there for two hours a week for free for the entire school year. I barely had to do anything but consistent experience looks good on an application. I know we all would rather get paid but 2 hrs a week isn't bad, and it actually let me practice whatever I wanted for that time.
+[4 upvotes]
+
+u/UntamedN8:
+Not sure if they're available for all schools, but one of the best year-long programs I've witnessed (and partook in) is called Break Through Tech AI. Through that, I was able to work on a Machine Learning project with a large company (Amazon). All I had to do was apply when the applications opened up and I passed my experience through the program as an internship. It's genuinely an amazing program and gives you opportunities to network with industry level people.
+[4 upvotes]
+
+u/TroyCaps:
+I got mine by pure luck. I applied to a SDE position, and didn't get it, but I think the recruiter/interviewer liked me a lot and recommended me to another position which I got on the spot.
+[4 upvotes]
+
+u/Lost_Swim8534:
+I just began the internship hunt last week looking for my first time professional experience as a programmer as a senior with no work experience. My resume was all of my projects + awards. I reached out to hiring managers when I felt appropriate at smaller institutions. I applied for around 100 last week, heard back from 6 so far for interviews.
+[3 upvotes]
+
+u/NationalTangerine381:
+Idk I just kept applying until I got one tbh after like 300 apps. I'm not even in CS and I got a SWE internship.
+[2 upvotes]
+
+u/anonymous_62:
+Do open source contribution, fastest way to learn skills and get a job.
+[2 upvotes]
+
+u/Vivid-Violinist2057:
+My first professional experience was through a co-op in spring and imo it opened a lot of doors for me. I also feel like looking for experience in the off season is somewhat less selective so try your luck there!
+[2 upvotes]
+
+u/RequiemPhantomX:
+Make a startup, say you worked at a startup. Boom, experience. That's what I did and got an internship.
+[8 upvotes]
+
+---
+
+POST 2: What Kind of Projects Did Yall Make To Get Your First Internships?
+r/csMajors | 4 years ago | 234 upvotes | 89 comments
+Author: HekaTool
+
+Yo, so I'm an incoming Sophomore that only took an intro level CS class that taught basic Python. I have 0 personal projects under my belt and I'm looking for achievable ideas from people that were in a similar spot as me. What did you guys make to secure an internship? A calculator? A video game? The cure to cancer? Please help.
+
+Edit: To all the people who had 0 projects, what did you guys have on your resume to secure an internship?
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/[deleted]:
+0 personal projects. All school projects + 3.8 GPA.
+[140 upvotes]
+
+u/DoubleSquare:
+Over my four years in college I did 4 internships, 1 fellowship, and over 20 personal projects and here's what I found to be the three types of projects that impressed interviewers the most:
+
+1. Projects with impact. AKA someone or some group of people use this project (like 30 daily visitors to a website you made or something). I've heard a good way to do this is make a project about something you're passionate about and post about it on the corresponding subreddit.
+
+2. Projects that have won some award or recognition. Think hackathons, game jams, or even some of your classes might give out awards for projects.
+
+3. Projects they can visit and see / use directly. Make a website they can visit or a game they can download and play from itch.io. This is actually how I got my first internship, where I "made" a game (literally copy/pasted code from one tutorial and had my friend make pixel art assets).
+
+Overall though, what I found most helpful was to build things you actually care about. Love Chess? Build something for it (or even your own Chess AI). Stuff like that really shines across in interviews.
+[167 upvotes]
+
+u/Nerg44:
+Do stuff that is related to things you like. Examples: I like Reddit, I made a saved Reddit post topic categorizer (NLP, topic modeling, Python). My friend likes League of Legends, he made a matchup win rate comparison tool. Doing non-cookie-cutter projects helps you show passion and that you can apply skills to something relevant to you.
+[43 upvotes]
+
+u/psychometrixo:
+I have 30 years of experience and the trick is to make many small projects, then present the best one or two. Make more and more and more. Doesn't matter what, so long as it takes a day or less. Conway's game of life? Sure. Tic tac toe? Go for it. Simple React/Angular/Vue todo page? Yes. AWS Lambda using the free tier? Yes. Out of ideas? Do a project you already did, again.
+
+It's a numbers game. Tons of little things are more likely to find you a hit than betting it all on one big project. Most of these will be bad. Don't let that get you down. You're learning and improving.
+[29 upvotes]
+
+u/BradP54:
+I'm in the same boat as you, looking for projects to add to a resume just to hear back from people for internships. I've been trying to look for project ideas and have come across Tech with Tim on YouTube, GeeksforGeeks project ideas, and other random resources by Googling. I've also seen a lot of posts that none of your projects need to be over the top, just look for something that you would like to learn more about or portray a skill with that language (OOP for example).
+[31 upvotes]
+
+u/Charmander787:
+My first internship I had none. For my second (current), I had one, which was a Python project that communicated with Bungie's Destiny 2 API. Why? Because I'm a Destiny 2 player. If you want a good place to start, look to your passions. There's almost always a way to apply what you've learned to create something you care about (it doesn't have to be unique in concept but it does have to be in execution).
+[22 upvotes]
+
+u/metalvendetta:
+I work in AI. When I first secured my internship, my manager told me they hired me because of an open source project I built: an AI tool to query natural language instead of SQL on tabular data. The reason I built this project is because I had been trying to build it for a freelance client, the client bailed, so we decided to open source what we built. Open source has helped me easily make an impression without much talking. It shows your ability and consistency. Never think of building a novel idea just because it looks good on your portfolio. Think of a need, and keep your mission aligned on solving a gap.
+[16 upvotes]
+
+u/gunalk19:
+I was an officer (now president) in a large student org and I made a participation tracking app using Google Apps Script (because all our points data was stored in a giant Google Sheet). I logged requests and saw that the app was receiving up to hundreds of users a week. I landed a FAANG internship for this fall and I think a big part of it was the fact that I was able to show that people were actually using it.
+[12 upvotes]
+
+u/aschimmichanga:
+Did no projects, only software engineering clubs and 3.8 GPA at a T40, and I got into FAANG for sophomore year. You don't need projects to be successful, just be passionate.
+[11 upvotes]
+
+u/PMoney34:
+I was in the exact same position as you last year, no CS experience except for a basic Python class, and I am doing an internship this summer. Here's what projects I did:
+
+Freshman-Sophomore Summer:
+- A basic personal website using HTML and CSS. Like just the bare basics. Not even really a project, but I put it down to fill space.
+
+Sophomore Winter:
+- A full stack web application using Node, MongoDB, React and Express that is basically a basic social media platform.
+- Worked on the backend of an app that uses location so that only people near the college can access the group chat.
+
+Sophomore Spring:
+- Class project, a terminal-based version of Risk written with OCaml.
+- Hackathon project, worked frontend for a website to display a new cryptocurrency.
+
+I also had a startup internship over Sophomore winter. Didn't gain too much from it, but it was definitely helpful to have some experience on my resume. Good luck!
+[5 upvotes]
+
+u/[deleted]:
+Honestly all that's important is you have something to talk about. Personally, I made a chess AI as my senior project in high school. Nothing too fancy, but there's a lot of theory that goes into something like that. I can use this as a jumping-off point to talk about how different development becomes when you're optimizing for pure speed, with readability becoming completely unimportant. If you have a topic like that you can talk about, even if it's not a project you spend a dozen hours a week on, you're golden.
+[3 upvotes]

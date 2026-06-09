@@ -1,0 +1,138 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/unfortunate-internship-experience-at-google + https://www.reddit.com/r/csMajors/comments/google-software-engineer-internship-2025
+TOPIC: Google Software Engineer Internship Experience
+---
+
+POST 1: Unfortunate internship experience at Google
+r/csMajors | 3 years ago | 658 upvotes | 103 comments
+Author: Comprehensive-Let480
+
+Recently finished an internship at Google and it was a bad experience ngl.
+
+Team had shitty WLB and office politics. People constantly messaging each other well after work hours. They wouldn't even keep it subtle, my boss would directly ping people at 8, 9PM lmao (not regarding ppl on-call). Was required to go to office two times a week when literally none of my team would go in lmfao, I think I met two teammates in person.
+
+With the office politics, it seemed a lot of people at the company were starting to distrust upper leadership (according to company-wide surveys). People were also rightfully and openly upset about the lack of bonuses and salary freezes.
+
+Most of the other interns I knew (we were at a smaller satellite office) were working probably 60 hours a week near the end of the internship. Some of the friends I made were going into the office on Saturday AND Sunday. I really didn't want work to comprise of 80% of my waking hours so I just phoned it in instead of burning out completely for the last couple weeks. I didn't get a return offer and neither did any of the others that I knew of, which was pretty shitty in my opinion.
+
+I know things aren't amazing in the tech industry but this gave me a bad impression of FAANG, I didn't even bother asking for an internship return offer lmfao. Hopefully other people's experiences were better this summer.
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/TheHolyKebabRemover:
+Similar experience w Microsoft lol, these freshmen can keep dreaming but this stuff can happen.
+[319 upvotes]
+
+u/I-AM-NOT-THAT-DUCK:
+A bunch of first-years in this thread acting like all FAANG's are sunshine and rainbows and they all drink coffee and play pinball machines all day.
+[359 upvotes]
+
+u/son_of_Gib:
+LinkedIn influencer culture
+[158 upvotes]
+
+u/KdotJCole:
+I think they are affected by those "a day in the life of a FAANG software engineer" videos.
+[61 upvotes]
+
+u/BurgooButthead:
+Idk why so many of these Never FAANGers are doubting your experience. This is the reality of Big Tech rn, less workers, more work.
+[276 upvotes]
+
+u/Wise_War_1711:
+Had a very similar experience at a FAANG that I had heard to be chill. My friends at Google, Amazon agreed that it was definitely more intense this year than prior.
+[53 upvotes]
+
+u/csueiras:
+Big companies tend to have lots of politics all around, its not a FAANG thing. Small companies can also have a lot of politics and can be way worse because theres no place to hide from the toxicity. I'm sorry your internship experience wasn't good, the manager and team are probably not in a good place to mentor interns. I took interns a few years and every time it was very important to me that they received all the mentorship, opportunities and feedback that I would give to any other hire. Internships can be hit or miss unfortunately, would just focus on trying to learn as much as possible and networking aggressively.
+[16 upvotes]
+
+u/taisui:
+Why do you think people get paid more there...? It's not all rainbows and shit....it's actually a blessing you discovered early.
+[37 upvotes]
+
+u/ssammytheseal:
+it's team based, don't take this as the general standard at all these companies. sure some orgs/teams will be like this but not all. go intern for yourself and find out rather than go off someone else's word.
+[21 upvotes]
+
+u/tcpWalker:
+Unfortunate indeed. A lot is team-based too. If manager is messaging that late it should only be done with explicit expectation you won't necessarily get to it until the next day. Upper leadership will always make some decisions you don't agree with and say some things that are out of touch. Try not to let it get to you. Try to do the things that make sense for your service. Try not to be too cynical about it either--being positive and unresentful is a superpower too.
+[6 upvotes]
+
+u/Quiet_Reindeer8765:
+Proof that every big company is team dependant, no matter how good. I had an Amazon internship and everything (wlb, manager, team, etc) was amazing.
+[6 upvotes]
+
+u/naman_chhaparia:
+That's unfortunate. I interned at Google this summer as well, and had a really great experience! You mind me asking your location and if you got a return offer?
+[11 upvotes]
+
+u/collegeequestions:
+I had a somewhat similar experience this summer! I think I def. agree with the comments about culture and the lack of trust, job mobility, and flexibility at Google in general (at least rn). I think the experience also highly depends on the team you're with. It was def. a very interesting experience for me, but I have to say, it wasn't at all like the influencer videos haha.
+[4 upvotes]
+
+u/Environmental_Row32:
+As always everything depends on the team and director. Although median FAANG is going to be better than median most other places it can always go in both directions.
+[7 upvotes]
+
+u/Secure-Iron-6726:
+It's crazy how people said FAANG were overstaffed but everyone I talked to during my internship at AMZN seemed to think there weren't enough engineers and it was evident by the amount they had to work.
+[3 upvotes]
+
+u/raricapital:
+Just chiming in to provide an alternative perspective to people in the comments. I had an amazing experience, had one of the best times in my life. Remember, people will only post these things when they have a bad experience. The silent majority may have had a good experience.
+[6 upvotes]
+
+u/Heor326:
+I interned in the mountain view office and I had none of the issues that you brought up. It was stressful and I had lots of work to do, but I didn't have to pull OT or come into the office. I guess it kinda does depend on the team and location tho. That really is unfortunate for you.
+[1 upvote]
+
+u/clueless_penguin1028:
+Sounds like you got unlucky with your team, sorry to hear that. It's been a tough market for interns and new grads at G, which is making it super competitive for the limited spots. I doubt this will ease up until Q1 2025, according to director in various orgs. There are still a lot of good teams with good mentorship and wlb, but those teams usually don't have openings.
+[1 upvote]
+
+u/WeekendCautious3377:
+Hmm imo this is an anomaly with G teams. When you get an offer, you generally are able to team match when you get to interview teammates. See how long engineers stayed with a particular manager generally tells you how toxic a manager is. Some engineers in my team stayed with my manager for 10+ years.
+[1 upvote]
+
+u/Flimsy-Possibility17:
+That seems like pretty good wlb to me. 60 hrs a week is pretty normal if you get an actual project and 3 months to do it. Same with most places that are successful. I'll work 60-70 one week and then 40 the next just depending on what's on for the sprint. For interns specifically, we would usually give them a project that should be ~10 days of work and give them 3 months to do it and the ones that finished it within the month got a return offer and we let them have fun.
+[1 upvote]
+
+---
+
+POST 2: Google Software Engineer Internship 2025 - Interview Experience
+r/csMajors | 1 year ago | 54 upvotes | 66 comments
+Author: i_must_sleep
+[UPDATE: Got rejected after 16 days (no third interview)]
+
+Just had my 2 X 45 mins interview yesterday. I sorta have mixed feelings about the interviews. I know I know it all depends on the interviewers, but I would still really appreciate hearing your thoughts on this. The waiting is killing me.
+
+So the first interviewer was very chill, gave me an LC hard problem knowing that it was a hard problem (as he mentioned he wanted to work with me throughout this 45 mins to see how it goes). Long story short, there was a lot of discussions, decision making etc. In the end I was able to code it up (pretty brute force-ish, as the interviewer told me I did not have to worry about optimization). But I low-key felt like he was saving that "optimization" part for a follow up question, which he did not get to ask as the time ran out. However, in the end, he told me "You did great! I am pretty sure this will work"..and some other positive words too. It was an amazing experience overall.
+
+The second interviewer gave me another LC hard. This time my brain just froze for 4-5 mins (which I informed her lol). She was like "no problem! Take your time." She also informed me I did not have to worry about optimization. So I was stumbling for a while. She asked if I knew any specific data structure would be a good fit for this problem, to which I answered correctly. But then failed to implement that class after writing a few lines, then went back to brute force mode, stumbled again, she gave me some hints, then within 5-6 mins was able to quickly finish the coding, we both ran some test cases (dry run), she found a bug, I fixed it, and in the end she said it should work. Then the time ran out. Unlike the first interviewer, she did not say "Ahh you did great" or anything (no feedback) and I was also too scared to ask for any feedback. Then she asked if I had any questions about Google or anything, we spoke for a while, she said my recruiter should be getting back to me soon and that was it.
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/seiyamaple:
+We're asking interns LC hards now? Jesus. If the interview went as you're writing, you should get an offer (again, assuming your POV is accurate). First interviewer shouldn't say stuff like "you did great" if you truly didn't. My interview for FTE went much worse on the one LC hard I was asked and I still got the offer. Reality is, the average interview goes much worse than this.
+[24 upvotes]
+
+u/Far-Adhesiveness6429:
+I think your first interviewer will give you strong hire and second one will be lean hire. It depends on the committee how they want to proceed, you did a really good job by attempting to solve those LC hard!
+[17 upvotes]
+
+u/complexityzero:
+If the first interviewer gave positive feedback, and the second gave mixed signals, then they will likely have you do a followup tie-breaker interview. At least that was the case for a friend who interviewed with Google recently.
+[6 upvotes]
+
+u/No-Income6479:
+Was Google intern, tbh if you got the two coding interviews with an actual engineer and didn't blow it, you're good. I kinda got the feeling they already knew who they wanted whenever they send OAs out… probably survivorship bias tho. In fact if you did really well, you're guaranteed team match. Usually only given to people from other prestigious internships, or are returning Google interns. Source: I was given team match guarantee despite no previous intern experience.
+[3 upvotes]
+
+u/Francesco270:
+Why would interviewers give you feedback? They don't make the decision.
+[13 upvotes]

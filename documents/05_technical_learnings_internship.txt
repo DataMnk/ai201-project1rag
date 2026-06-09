@@ -1,0 +1,131 @@
+SOURCE: https://www.reddit.com/r/csMajors/comments/what-i-learned-from-my-internship-i-dont-want-to-be-an-swe + https://www.reddit.com/r/csMajors/comments/what-do-you-learn-in-internships
+TOPIC: What You Actually Learn Technically (and Otherwise) at a Software Engineering Internship
+---
+
+POST 1: What I learned from my internship: I don't want to be an SWE
+r/csMajors | 3 years ago | 385 upvotes | 101 comments
+Author: [deleted]
+
+A few weeks left of my internship. I got to try on many different hats from SWE, application engineer, business analyst, product owner. I discovered I don't like coding all day and not speaking to people. I kind of liked going into the field and configuring practical applications in the retail space as an application engineer but can't see myself doing it long term. I like working with data (SQL and PowerBI), improving processes, finding out ways how to create business value using technology as a business analyst.
+
+I loved working in the product owner role where I'm collaborating with different teams both internally (engineering, merchandising, finance, operations) and externally (stakeholders and business partners) to move things along and bring the vision to reality. Loved working with our business partners Samsung and Apple, leveraging their technology to influence and change customer behavior, streamline operations to run frictionless and more efficient.
+
+What I especially loved was seeing the technology in action in the end and how it made an impact on customers, stakeholders and bottom line.
+
+So product owner it is. I want to build my domain knowledge in the tech retail space. It's nice to finally have a focused career goal.
+
+TLDR: Ending internship... I came in thinking I was going to be an SWE but now want to be a product owner.
+
+Anyone else discover they didn't want to be SWE and wanted to do something else?
+
+---
+
+TOP COMMENTS (POST 1):
+
+u/[deleted]:
+Yes! I'm the same way. I enjoy coding, but I particularly enjoy getting feedback from users and implementing it onsite into the system so that it works as they're wanting it to work. It feels great!
+[148 upvotes]
+
+u/Ozymandias0023:
+It's wild how different people can be. You just described a nightmare job for me, and unlike OP I absolutely love coding all day without talking to much of anyone lol. I guess it takes all types to make the world go 'round.
+[76 upvotes]
+
+u/guwoskcmamja:
+Funny though, I used to be a product owner intern who also wore the hat of software engineer. Absolutely hated it, so I'm never gonna go into engineering again. However, product owner/manager is not an entry level position, so finding a new grad job is pretty tough even with experience. You could try BA, but BA gets a lot of competition because basically every major can apply.
+[89 upvotes]
+
+u/mrchowmein:
+You can be a technical PM. You get to work (and talk to) with and solve problems with stakeholders from both sides of the spectrum, from technical to non-technical. A lot of companies treat/interview new grad technical PMs like software engineers so you still got to LeetCode, but you don't have to do the engineering work.
+[34 upvotes]
+
+u/starg8sg1:
+(I am not a CS major — I have many years of experience — but Reddit recommended this post to me.) This might be an unpopular opinion, but I will say that in the current market, business analysts tend to make many tens of thousands of dollars less per year than engineers. At my company, the pay is literally half for senior positions. The work environment is also not as flexible. The benefits aren't as good. It's harder to find a business analytics job, because so many more people from different backgrounds qualify.
+
+Have you considered being an analytics engineer instead of a business analyst? Analytics engineers typically design the data warehouse, help define business definitions for the data, work to get business stakeholders the data they need to make decisions, and manage basic ingestion of data. Because they code less, analytics engineering doesn't pay as well as software engineering, but the pay is still better than what business analysts make, and you get to work with stakeholders across the business.
+
+I mention all of this because when I was fresh out of school, I wanted to go into technical writing. Then I was offered a job — and the hiring manager actually called me from his personal phone to tell me not to take it. He convinced me to go into software instead. So I did, and it was a fine job, but I didn't love it. Five years in, I went into technical product management and then engineering management. I went back to school to get my MBA, and now I can get a job doing almost any role I want. That would have almost NEVER been possible if I'd gone into technical writing or business analysis.
+[28 upvotes]
+
+u/welguisz:
+Congratulations. This internship was a success. It taught you what you want to be. It might take a few years to become a product owner, but now you can work on that path to get to your destination.
+[102 upvotes]
+
+u/Winertia:
+This is the value of internships... Try before you buy! Sounds like you're having a successful summer. Congrats on your newfound clarity! I had the same experience with my own internships - sending me in a different direction than anticipated.
+[9 upvotes]
+
+u/FlyFeatherss:
+Same here! Kind of a shame that I spent so many months trying to get a SWE intern and end up kinda hating it, even though the pay is good. I just don't enjoy it enough to take it as a career path. I'm personally trying to pivot back to business/data analyst myself as well.
+[8 upvotes]
+
+u/[deleted] (OP reply):
+What's important is job satisfaction. If you don't enjoy what you do, you won't stay in it long even if it pays well. You can't let money be the only deciding factor, I made that mistake before.
+[5 upvotes]
+
+u/Mentalextensi0n:
+I got a year into a therapist masters internship before I realized I hate talking to people all day and would much rather just code.
+[17 upvotes]
+
+u/Lineov42:
+I figured it out in my final for CS. We had to program a database for a state organization. I wrote all the documentation for the programming but did none of the actual coding. I figured out I like technical documentation more than SWE.
+[7 upvotes]
+
+---
+
+POST 2: What do you learn in internships?
+r/csMajors | 3 years ago | 31 upvotes | 17 comments
+Author: [deleted]
+
+Folks who've had internship experiences, what did you learn at your internship that can't be learned in classrooms? I've had 2 internships, one at a startup, one at a F500 company, and I honestly don't think I learned much. I can learn languages and frameworks more in depth by building projects on my own, and the internship tasks are much easier than programming assignments from school. I guess soft skills like communicating with coworkers or agile methodologies could be valuable. Or maybe I just interned at shitty companies?
+
+I'm curious, what are your thoughts on your internship experience? Did you takeaway anything useful?
+
+---
+
+TOP COMMENTS (POST 2):
+
+u/TonyTheEvil:
+I learned a bit of AWS, but the main things were just the overall "how to work" stuff: standup, communication, picking up tasks, etc.
+[44 upvotes]
+
+u/Powerful_Street_7134:
+How to deal with people in different departments with different roles. They're DevOps so often they communicated with business analysts or with software devs. I think another thing is the sprint. Every 2 weeks all software devs needed to show production — you don't really have that in classrooms because in classrooms you just have homework deadlines and they're individual work. In companies, the sprints are done in teams, whereas standups is more for your own ticket.
+
+Oh one more — reading codebases and making contributions to them. I feel like only open source contributions and internships can help with that skill.
+[20 upvotes + 8 upvotes]
+
+u/Senior-Impression830:
+Basically you learn a lot about office politics. Yeah, I've heard people talk about that all the time, but you will never actually learn it unless you experience it yourself. Things get even more interesting at bigger companies. Knowing how to deal with different people and protect yourself at work, and also learning how to deal with different managers and communicate effectively with them. It's so different when you're working with your prof/class/classmates vs actually working under a manager. I've come to a conclusion that even with strong technical skills, without solid understanding of office politics, managers, and handling different relationships at work, you will never get too far.
+[12 upvotes]
+
+u/Stock-Honda:
+It's kind of a cop-out answer but you learn to be a professional — learning how to work in a team to create a high quality product, you gain skills in the tech you work on also. For example, I worked on an embedded networking team so I learned a lot about low-level languages, how the software interacts with the hardware, test cases, design documents, networking protocols. These are all skills I didn't have before, and even if I don't use these exact skills in the future, the knowledge and experience will definitely transfer.
+[10 upvotes]
+
+u/SomeYak:
+Learning how to work with large existing codebases, designing scalable architecture which affects more people than just you, formal practices of software — various types of testing i.e. integration testing, functional testing, end-to-end testing.
+[1 upvote]
+
+u/saamenerve:
+I had an internship at a large company as an MLE. Models of that size are something that you will never see at school or even university research labs.
+[3 upvotes]
+
+u/Spinal1128:
+I dunno. Depends. From my 2 internships at local companies — one, I learned absolutely jack shit. They basically just gave me menial tasks and online courses to do. Also the senior dev was a jackass who did nothing and talked down to everybody. Place was slow and SUCKED.
+
+The second one, I was tasked with developing an internal prototype app by my lonesome and I learned a shitload. I had to do everything from going around gathering requirements, writing out requirements, writing documentation, coding the entire thing back end to front end, meeting with my mentor, making changes and refactoring, etc. They said they were going to use the prototype as a proof of concept. That internship was SUPER useful and I learned a lot.
+[3 upvotes]
+
+u/jojoRonstad:
+I learned whether or not I wanted to do this for the rest of my life.
+[5 upvotes]
+
+u/MyNameIsBreezy:
+I learned that I know nothing. But in all seriousness, I think it is about being flexible with what the company needs and what you can provide. Also, I networked a lot during my internship and met amazing people.
+[5 upvotes]
+
+u/findByName:
+I think internship has two important things:
+1. Learning and development using some technologies — depends on the project you are working on.
+2. The approach. Like, you indirectly learn from your surroundings how things work in wider aspects. How hierarchies are being followed in industry. What's the most and least important thing which companies follow. You come out with a different mindset.
+[1 upvote]
