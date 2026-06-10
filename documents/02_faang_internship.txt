@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/csMajors/comments/former-amazon-sde-interns-how-much-value + https://www.reddit.com/r/csMajors/comments/i-got-offers-from-google-meta-amazon-swe-intern
+SOURCE: https://www.reddit.com/r/csMajors/comments/1t7j0kf/former_amazon_sde_interns_how_much_value_did_the/ + https://www.reddit.com/r/csMajors/comments/1sfjems/i_got_offers_from_google_meta_amazon_swe_intern/
 TOPIC: Internship Experience at Meta, Amazon, and Microsoft (FAANG)
 ---
 

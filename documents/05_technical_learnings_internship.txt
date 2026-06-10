@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/csMajors/comments/what-i-learned-from-my-internship-i-dont-want-to-be-an-swe + https://www.reddit.com/r/csMajors/comments/what-do-you-learn-in-internships
+SOURCE: https://www.reddit.com/r/csMajors/comments/155ur6y/what_i_learned_from_my_internship_i_dont_want_to/ + https://www.reddit.com/r/csMajors/comments/17xjegv/what_do_you_learn_in_internships/
 TOPIC: What You Actually Learn Technically (and Otherwise) at a Software Engineering Internship
 ---
 

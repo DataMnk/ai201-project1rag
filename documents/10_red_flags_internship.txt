@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/csMajors/comments/red-flags-software-engineering-job-internship-descriptions + https://www.reddit.com/r/cscareerquestions/comments/internship-as-a-ml-engineer-is-a-living-hell
+SOURCE: https://www.reddit.com/r/csMajors/comments/qfr7gq/what_red_flags_do_you_notice_when_you_look_at/ + https://www.reddit.com/r/cscareerquestions/comments/jn6we6/internship_as_a_ml_engineer_is_a_living_hell/
 TOPIC: Red Flags in Tech Internships - Warning Signs from Real Experiences
 ---
 

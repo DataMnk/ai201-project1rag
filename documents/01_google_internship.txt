@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/csMajors/comments/unfortunate-internship-experience-at-google + https://www.reddit.com/r/csMajors/comments/google-software-engineer-internship-2025
+SOURCE: https://www.reddit.com/r/csMajors/comments/173hrho/unfortunate_internship_experience_at_google/ + https://www.reddit.com/r/csMajors/comments/1ic6vxn/google_software_engineer_internship_2025/
 TOPIC: Google Software Engineer Internship Experience
 ---
 

@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/cscareerquestions/comments/got-hired-with-zero-experience + https://www.reddit.com/r/csMajors/comments/how-did-you-get-your-first-internship
+SOURCE: https://www.reddit.com/r/cscareerquestions/comments/r78kvz/got_hired_with_zero_experience/ + https://www.reddit.com/r/csMajors/comments/1oswamq/how_did_you_get_your_first_internship/
 TOPIC: First Tech Internship With No Prior Experience - Real Stories
 ---
 

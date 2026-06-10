@@ -1,4 +1,4 @@
-SOURCE: https://www.reddit.com/r/csMajors/comments/think-twice-before-you-work-for-any-startup + https://www.reddit.com/r/cscareerquestions/comments/how-valuable-is-startup-experience
+SOURCE: https://www.reddit.com/r/csMajors/comments/1lfhutc/think_twice_before_you_work_for_any_startup/ + https://www.reddit.com/r/cscareerquestions/comments/1p4yzbf/how_valuable_is_startup_experience/
 TOPIC: Startup Internship vs Big Tech Internship - Real Comparisons and Experiences
 ---
 
