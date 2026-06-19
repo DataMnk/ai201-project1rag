@@ -1,4 +1,5 @@
 import chromadb
+import hashlib
 from sentence_transformers import SentenceTransformer
 from ingest import load_documents
 
@@ -40,15 +41,18 @@ def embed_and_store(chunks: list[dict]) -> None:
     # Build the metadata list — one dict per chunk with the source filename
     metadatas = [{"source": chunk["source"]} for chunk in chunks]
 
-    # Build unique IDs for each chunk — ChromaDB requires unique string IDs
-    ids = [f"chunk_{i}" for i in range(len(chunks))]
+    # Stable IDs derived from content — re-running ingestion upserts rather than duplicates
+    ids = [
+        hashlib.sha256(f"{chunk['source']}::{chunk['text']}".encode()).hexdigest()[:16]
+        for chunk in chunks
+    ]
 
     # Store everything in ChromaDB
     # documents = the raw text (returned in query results)
     # embeddings = the vectors (used for similarity search)
     # metadatas = source info (used for attribution)
     # ids = unique identifiers
-    collection.add(
+    collection.upsert(
         documents=texts,
         embeddings=embeddings.tolist(),  # ChromaDB needs a plain list, not numpy array
         metadatas=metadatas,
