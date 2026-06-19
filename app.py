@@ -6,6 +6,11 @@ from retriever import retrieve
 # Load the GROQ_API_KEY from your .env file
 load_dotenv()
 
+# Fail fast with a clear message rather than a cryptic Groq auth error later
+if not os.environ.get("GROQ_API_KEY"):
+    print("Error: GROQ_API_KEY not found. Copy .env.example to .env and add your key.")
+    raise SystemExit(1)
+
 # Initialize the Groq client — it automatically picks up GROQ_API_KEY from environment
 groq_client = Groq()
 
