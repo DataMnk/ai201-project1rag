@@ -1,9 +1,6 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Internship Guide — RAG-Powered Q&A
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+> Built on the CodePath AI201 starter template; all pipeline logic (ingestion, chunking, retrieval, generation, evaluation) implemented by me.
 
 ---
 
@@ -122,6 +119,42 @@ this project, local + free was the right call.
 
 ---
 
+## Retrieval Test Results
+
+Each query below was run against the live ChromaDB collection (207 chunks, cosine similarity). Lower distance = more semantically similar.
+
+**Query 1: "What do students say about work-life balance at Google?"**
+
+| Rank | Source | Distance | Chunk excerpt |
+|---|---|---|---|
+| 1 | 02_faang_internship.txt | 0.532 | "...the only thing I have ever done that's been a net positive to my employability..." |
+| 2 | 01_google_internship.txt | 0.539 | "...internship and everything (wlb, manager, team, etc) was amazing..." |
+| 3 | 01_google_internship.txt | 0.552 | "Unfortunate internship experience at Google..." |
+
+*Relevance note:* The most directly WLB-relevant chunk (rank 2, explicit "wlb, manager, team" mention) doesn't rank first — a more general employability comment narrowly outranks it. This shows a limitation of pure semantic similarity: topical overlap (both mention internships generally) can outweigh keyword-level relevance (one explicitly says "wlb", the other doesn't).
+
+**Query 2: "How much do FAANG interns make per month?"**
+
+| Rank | Source | Distance | Chunk excerpt |
+|---|---|---|---|
+| 1 | 06_internship_salary_compensation.txt | 0.382 | "...semester junior year that was $50/hr and then my summer internship junior year was..." |
+| 2 | 06_internship_salary_compensation.txt | 0.448 | "...6 months ago, 212 upvotes, 111 comments..." |
+| 3 | 06_internship_salary_compensation.txt | 0.449 | "...month 6 I asked for a raise and they bumped me to $22.50..." |
+
+*Relevance note:* All top results correctly pull from the salary-specific document, with the lowest distance score (0.382) of any query tested — a strong, unambiguous match between query and source.
+
+**Query 3: "What are red flags in internship job descriptions?"**
+
+| Rank | Source | Distance | Chunk excerpt |
+|---|---|---|---|
+| 1 | 10_red_flags_internship.txt | 0.422 | "What Red Flags do you notice when you look at Software Engineering Job/Internship..." |
+| 2 | 10_red_flags_internship.txt | 0.508 | "No mention of culture on their site. Do y'all volunteer? Company hackathons?..." |
+| 3 | 05_technical_learnings_internship.txt | 0.536 | "Also, I networked a lot during my internship and met amazing people..." |
+
+*Relevance note:* Rank 3 is a retrieval miss — a networking anecdote from an unrelated document outranks other red-flags content. At a 500-character chunk size, general internship-experience chunks can drift close enough in embedding space to surface for topically-adjacent queries.
+
+---
+
 ## Grounded Generation
 
 <!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
@@ -226,7 +259,6 @@ were all above 1.0 — which made it impossible to judge relevance. I had to swi
 from the default L2 (Euclidean) distance to cosine similarity by adding 
 `metadata={"hnsw:space": "cosine"}` to the collection. That wasn't in the spec 
 because I didn't know it would be a problem until I saw the actual numbers.
-Pégalo y nos queda solo AI Usage — la última sección.
 
 ---
 
